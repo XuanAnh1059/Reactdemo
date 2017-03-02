@@ -21,7 +21,6 @@ class Cart extends Component{
 
         return(
             <div className="col-sm-6 col-md-4">
-                <div>{}</div>
                 <div className="thumbnail">
                     <label className="title-cart">Cart</label>
                     <table>
